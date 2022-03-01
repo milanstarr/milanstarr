@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milanstarr - you can call me Milan. 
+- 👋 Hi, I’m @milanstarr - you can call me Milan. It's great to meet you!
 - 👀 I’m interested in learning about programming. I am currently working through the Odin Project to learn about web development. 
 - 🌱 I’m currently learning JavaScript. I've learned introductory concepts in HTML and CSS. 
 - 💞 I currently work in education and am personally interested in design and usability. I'm open to wherever my learning takes me, but I am interested in frontend development and user experience. 
